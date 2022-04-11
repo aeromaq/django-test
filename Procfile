@@ -1,1 +1,1 @@
-web: gunicorn romairs.wsgi
+web: gunicorn roma.wsgi
